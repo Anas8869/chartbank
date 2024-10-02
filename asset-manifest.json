@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chartbank/static/css/main.ee4ea5c2.css",
+    "main.js": "/chartbank/static/js/main.425db8be.js",
+    "static/js/453.3e1712cc.chunk.js": "/chartbank/static/js/453.3e1712cc.chunk.js",
+    "index.html": "/chartbank/index.html",
+    "main.ee4ea5c2.css.map": "/chartbank/static/css/main.ee4ea5c2.css.map",
+    "main.425db8be.js.map": "/chartbank/static/js/main.425db8be.js.map",
+    "453.3e1712cc.chunk.js.map": "/chartbank/static/js/453.3e1712cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee4ea5c2.css",
+    "static/js/main.425db8be.js"
+  ]
+}
